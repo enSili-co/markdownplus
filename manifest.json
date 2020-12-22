@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "Markdown+",
-  "description": "Instantly kill all your open Mac apps with a single click from your status menu",
+  "description": "Write, style, preview and export markdown in macOS. The easiest Markdown editor for Mac.",
   "start_url": "/",
   "display": "standalone"
 }
