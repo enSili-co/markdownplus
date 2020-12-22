@@ -30,11 +30,11 @@ body {
   position: relative; }
 
 a {
-  color: gray; }
+  color: #d1eaa8; }
 
 a:hover,
 a:focus {
-  color: #333; }
+  color: #8FC831; }
 
 h1 {
   font-size: 60px;
@@ -45,31 +45,31 @@ h1 {
 h2 {
   font-size: 45px;
   font-weight: 300;
-  color: #8FC831;
+  color: #333;
   letter-spacing: -1px;
   margin-bottom: 1rem; }
 
 h3 {
-  color: #8FC831;
+  color: #333;
   font-size: 33px;
   font-weight: 500; }
 
 h4 {
   font-size: 20px;
   font-weight: 500;
-  color: #8FC831; }
+  color: #333; }
 
 h5 {
   font-size: 28px;
   font-weight: 300;
-  color: #8FC831;
+  color: #333;
   margin-bottom: 0.7rem; }
 
 p {
   color: #959094; }
 
 p.lead {
-  color: gray;
+  color: #d1eaa8;
   margin-bottom: 2rem; }
 
 .text-primary {
@@ -86,11 +86,11 @@ p.lead {
   transition: all 0.3s ease; }
 
 .btn-outline-light:hover {
-  color: #8FC831; }
+  color: #333; }
 
 .btn-primary {
   border-radius: 3px;
-  background-color: #333;
+  background-color: #8FC831;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.2);
   font-weight: 500;
   padding: 0.6rem 2rem;
@@ -102,7 +102,7 @@ p.lead {
 .btn-primary:not([disabled]):not(.disabled).active,
 .btn-primary:not([disabled]):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
-  background-color: #262626;
+  background-color: #80b42c;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.3);
   color: #FFF; }
 
@@ -112,7 +112,7 @@ p.lead {
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.26);
   font-size: 14px;
   font-weight: 500;
-  color: #8FC831;
+  color: #333;
   margin: 0.5rem;
   padding: 0.7rem 1.6rem;
   line-height: 1.8; }
@@ -271,7 +271,7 @@ header {
   border-radius: 50%;
   margin-bottom: 1.5rem;
   background-color: #FFF;
-  color: #333;
+  color: #8FC831;
   font-size: 48px;
   text-align: center;
   line-height: 80px;
@@ -285,7 +285,7 @@ header {
     font-size: 28px;
     line-height: 50px; } }
 .ui-steps li:hover .circle-icon {
-  background: #333;
+  background: #8FC831;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.09);
   color: #FFF; }
 
@@ -336,7 +336,7 @@ header {
   background: #FFF;
   border-top-width: 3px;
   border-color: #ce75b4 #faf6fb #FFF;
-  color: #8FC831; }
+  color: #333; }
 
 /*  TESTIMONIALS
 ----------------------*/
@@ -414,7 +414,7 @@ header {
   border-top-width: 3px;
   border-color: #ce75b4 #faf6fb #FFF;
   box-shadow: 0px 12px 59px 0px rgba(36, 7, 31, 0.11);
-  color: #8FC831; }
+  color: #333; }
 
 .card.pricing .card-head {
   text-align: center;
@@ -424,7 +424,7 @@ header {
   display: block;
   font-size: 45px;
   font-weight: 300;
-  color: #8FC831; }
+  color: #333; }
 
 .card.pricing .card-head .price sub {
   bottom: 0;
@@ -490,7 +490,7 @@ header {
 
 .social-icons a:hover {
   text-decoration: none;
-  color: gray; }
+  color: #d1eaa8; }
 
 @media (max-width: 991px) {
   .social-icons {
@@ -500,7 +500,7 @@ header {
 h4.howtolist {
   font-size: 28px;
   font-weight: 400;
-  color: #729f27;
+  color: #1a1a1a;
   margin-bottom: 0.7rem; }
 
 .howtodescription {
