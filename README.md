@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>Markdown+ for Mac</h1>
 <p align=center>
-  Edit, style, preview &amp; export<br>your Markdown in macOS.<br><br>Just like that.
+  Edit, style, preview and export<br>your Markdown in macOS.<br><br>With style. Like a breeze.
 </p>
 
 
