@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>Markdown+ for Mac</h1>
 <p align=center>
-  Tired of getting stuck with open apps<br>and not knowing how to get rid of them?<br><br>Kill them all at once. Just like that.
+  Edit, style, preview &amp; export<br>your Markdown in macOS.<br><br>Just like that.
 </p>
 
 
