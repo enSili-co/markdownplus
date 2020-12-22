@@ -185,10 +185,10 @@ header {
   color: #FFF; }
 
 .bg-gradient {
-  background-image: -moz-linear-gradient(135deg, #729f27 0%, #98D03B 100%);
-  background-image: -webkit-linear-gradient(135deg, #729f27 0%, #98D03B 100%);
-  background-image: -ms-linear-gradient(135deg, #729f27 0%, #98D03B 100%);
-  background-image: linear-gradient(135deg, #729f27 0%, #98D03B 100%); }
+  background-image: -moz-linear-gradient(135deg, #54761d 0%, #98D03B 100%);
+  background-image: -webkit-linear-gradient(135deg, #54761d 0%, #98D03B 100%);
+  background-image: -ms-linear-gradient(135deg, #54761d 0%, #98D03B 100%);
+  background-image: linear-gradient(135deg, #54761d 0%, #98D03B 100%); }
 
 .tagline {
   font-size: 23px;
