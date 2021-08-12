@@ -1,0 +1,23 @@
+$gradient_from: darken(#37DCCB,30%); //darken(#FF6234,50%); //#065704CC;
+$gradient_to: #37DCCB; //#FF9902CC; //#10C102CC;
+
+$gradient2_from: darken(#37DCCB,5%); //#10C102;
+$gradient2_to: #37DCCB; //darken(#FF9902,20%); // #065704;
+
+$accent: black; //darken(#FF9902,5%); //#333; //darken(#FF9902,5%); //#065704;
+$highlight: #37DCCB;
+$light_highlight: lighten($highlight, 10%);
+
+$navbar_background: #32363A; //$accent;
+
+// $gradient_from: darken(#37DCCBCC,20%);//#065704CC;
+// $gradient_to: #37DCCBCC;//#10C102CC;
+
+// $gradient2_from: #10C102;
+// $gradient2_to: #065704;
+
+// $accent: #065704;
+// $highlight: #0BBA09;
+// $light_highlight: lighten($highlight, 30%);
+
+// $navbar_background: $accent;

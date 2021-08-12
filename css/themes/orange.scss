@@ -1,0 +1,11 @@
+$gradient_from: darken(#FF880C,30%); //darken(#FF6234,50%); //#065704CC;
+$gradient_to: #FF9102; //#FF9902CC; //#10C102CC;
+
+$gradient2_from: darken(#FF880C,5%); //#10C102;
+$gradient2_to: #FF880C; //darken(#FF9902,20%); // #065704;
+
+$accent: black; //darken(#FF9902,5%); //#333; //darken(#FF9902,5%); //#065704;
+$highlight: #FF9902;
+$light_highlight: lighten($highlight, 10%);
+
+$navbar_background: #32363A; //$accent;
