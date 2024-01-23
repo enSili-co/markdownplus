@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://s3.amazonaws.com/ensili.co/markdownplus-2.1.zip
+▶︎ https://s3.amazonaws.com/ensili.co/markdownplus-3.0.zip
 
 # Official Website
 
