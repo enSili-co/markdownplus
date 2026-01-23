@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/markdownplus/markdown+-4.3.1.zip
+▶︎ https://ensili.co/download/markdownplus/markdown+-4.3.2.zip
 
 # Official Website
 
